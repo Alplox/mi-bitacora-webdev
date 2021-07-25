@@ -127,7 +127,7 @@ Documentando mi proceso de auto enseñanza junto a los recursos utilizados para 
    
    
 ## Semana 3
-### 📓 Bitácora #3 = [Escrita](https://alenplox.blogspot.com/2021/06/bitacora-desarrollador-web-3.html) - Vídeo (pronto) <!-- {docsify-ignore} -->
+### 📓 Bitácora #3 = [Escrita](https://alenplox.blogspot.com/2021/06/bitacora-desarrollador-web-3.html) - [Vídeo](https://youtu.be/XVW17g0M17o) <!-- {docsify-ignore} -->
 
 <details>
 <summary>Ver recursos</summary>
